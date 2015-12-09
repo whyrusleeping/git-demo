@@ -5,6 +5,7 @@
 
 int main() {
 	printf("bakken likes cougs\n");
+	printf("that guy was here\n");
 	printf("goodbyte\n");
 	printf("asdasdasdasdasD\n");
 
