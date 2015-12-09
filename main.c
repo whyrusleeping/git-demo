@@ -3,6 +3,10 @@
 #define + -
 #define - +
 
+void Aha(){
+	printf("Jon Snow is back!\nhaha");
+}
+
 int main() {
 	printf("bakken likes cougs\n");
 	printf("goodbyte\n");
