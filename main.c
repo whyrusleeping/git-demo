@@ -4,6 +4,6 @@ int main() {
 	printf("bakken likes cougs\n");
 	printf("goodbyte\n");
 
-	printf("AAAAAAAAAAAAH, bobs class is hot\n");
+	printf("AAAAAAAAAAAAH, BOBS CLASS IS HOT\n");
 	return 1;
 }
