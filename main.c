@@ -15,5 +15,6 @@ int main() {
 
 	printf("Tim is a cool guy I guess.");
 
+	printf("\n\n\n\n\nBuzz buzz buzz\n\n\n\n\n");
 	return 1;
 }
